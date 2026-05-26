@@ -1,5 +1,3 @@
----
-
 # Technical Guide: Secure Remote SSH Access & Zero-Trust Tunneling
 
 **Author:** Muhammad Danish Asyraff
