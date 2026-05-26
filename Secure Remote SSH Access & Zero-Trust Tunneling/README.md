@@ -1,6 +1,7 @@
 # Technical Guide: Secure Remote SSH Access & Zero-Trust Tunneling
 
 **Author:** Muhammad Danish Asyraff
+
 **Objective:** To establish secure, remote command-line access to a local Windows host and Windows Subsystem for Linux (WSL) environment from a mobile device (Termux), enabling global access via a zero-trust encrypted tunnel.
 
 ## Prerequisites
